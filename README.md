@@ -14,4 +14,4 @@ Completed user stories:
     User can log out from the Settings screen.
 
 Walkthrough of all user stories:
-  
+  ![week1_dropbox_kai](https://cloud.githubusercontent.com/assets/8231104/10719559/49bf5fe2-7b48-11e5-9e62-d96670754aac.gif)
